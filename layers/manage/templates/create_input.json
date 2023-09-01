@@ -1,0 +1,7 @@
+{
+    "OperatingEnvironment": ${jsonencode(OperatingEnvironment)},
+    "CloudEnvironment": ${jsonencode(CloudEnvironment)},
+    "TargetObjectId": ${jsonencode(managedIdentityObjectID)},
+    "TargetScope": ${jsonencode(TargetScope)},
+    "TargetRole": ${jsonencode(TargetRole)}
+}
